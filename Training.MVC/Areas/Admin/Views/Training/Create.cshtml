@@ -1,0 +1,33 @@
+﻿@using Training.BL.ViewModels.Trainer
+
+@model TrainerCreateVM
+<div class="container">
+    <div>
+        <h2>Create Trainer</h2>
+        <a asp-action="Index" asp-controller="Training">Return List</a>
+    </div>
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="Name">Name</label>
+            <input asp-for="Name" class="form-control" placeholder="Enter Name">
+            <span asp-validation-for="Name" class="form-text text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Surname">Surname</label>
+            <input asp-for="Surname" class="form-control" placeholder="Enter Surname">
+            <span asp-validation-for="Surname" class="form-text text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CategoryId" class="control-label">Categories</label>
+            <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.Categories"></select>
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CoverImage"></label>
+            <input asp-for="CoverImage" class="form-control" type="file">
+            <span asp-validation-for="CoverImage" class="text-small text-danger"></span>
+
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+</div>

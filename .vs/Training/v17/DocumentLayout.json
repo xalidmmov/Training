@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Second\\Desktop\\Task\\Training\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|c:\\users\\second\\desktop\\task\\training\\training.bl\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|solutionrelative:training.bl\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|c:\\users\\second\\desktop\\task\\training\\training.bl\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|solutionrelative:training.bl\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B444FB8A-FCAC-42D9-9148-FE1632D46A26}|Training.Core\\Training.Core.csproj|c:\\users\\second\\desktop\\task\\training\\training.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B444FB8A-FCAC-42D9-9148-FE1632D46A26}|Training.Core\\Training.Core.csproj|solutionrelative:training.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\areas\\admin\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\areas\\admin\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|c:\\users\\second\\desktop\\task\\training\\training.bl\\enum\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|solutionrelative:training.bl\\enum\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\areas\\admin\\views\\training\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\areas\\admin\\views\\training\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\areas\\admin\\views\\training\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\areas\\admin\\views\\training\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\areas\\admin\\views\\training\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\areas\\admin\\views\\training\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B444FB8A-FCAC-42D9-9148-FE1632D46A26}|Training.Core\\Training.Core.csproj|c:\\users\\second\\desktop\\task\\training\\training.core\\entities\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B444FB8A-FCAC-42D9-9148-FE1632D46A26}|Training.Core\\Training.Core.csproj|solutionrelative:training.core\\entities\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|c:\\users\\second\\desktop\\task\\training\\training.bl\\service\\implements\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|solutionrelative:training.bl\\service\\implements\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|c:\\users\\second\\desktop\\task\\training\\training.bl\\service\\abstracts\\itrainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|solutionrelative:training.bl\\service\\abstracts\\itrainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|c:\\users\\second\\desktop\\task\\training\\training.bl\\service\\abstracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|solutionrelative:training.bl\\service\\abstracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|c:\\users\\second\\desktop\\task\\training\\training.bl\\service\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|solutionrelative:training.bl\\service\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B444FB8A-FCAC-42D9-9148-FE1632D46A26}|Training.Core\\Training.Core.csproj|c:\\users\\second\\desktop\\task\\training\\training.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B444FB8A-FCAC-42D9-9148-FE1632D46A26}|Training.Core\\Training.Core.csproj|solutionrelative:training.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B444FB8A-FCAC-42D9-9148-FE1632D46A26}|Training.Core\\Training.Core.csproj|c:\\users\\second\\desktop\\task\\training\\training.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B444FB8A-FCAC-42D9-9148-FE1632D46A26}|Training.Core\\Training.Core.csproj|solutionrelative:training.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5D1E31-1A6B-4627-BBFD-9F550B1FD6E7}|Training.DAL\\Training.DAL.csproj|c:\\users\\second\\desktop\\task\\training\\training.dal\\dal\\trainingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5D1E31-1A6B-4627-BBFD-9F550B1FD6E7}|Training.DAL\\Training.DAL.csproj|solutionrelative:training.dal\\dal\\trainingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|c:\\users\\second\\desktop\\task\\training\\training.bl\\viewmodels\\trainer\\trainercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|solutionrelative:training.bl\\viewmodels\\trainer\\trainercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|c:\\users\\second\\desktop\\task\\training\\training.bl\\viewmodels\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|solutionrelative:training.bl\\viewmodels\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|c:\\users\\second\\desktop\\task\\training\\training.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE96E1-B45D-47B4-9EC5-5A5CC259F157}|Training.BL\\Training.BL.csproj|solutionrelative:training.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|c:\\users\\second\\desktop\\task\\training\\training.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57FDB251-6865-45F1-926C-7A5B69B37D48}|Training.MVC\\Training.MVC.csproj|solutionrelative:training.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5D1E31-1A6B-4627-BBFD-9F550B1FD6E7}|Training.DAL\\Training.DAL.csproj|c:\\users\\second\\desktop\\task\\training\\training.dal\\migrations\\20250117105114_createdtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5D1E31-1A6B-4627-BBFD-9F550B1FD6E7}|Training.DAL\\Training.DAL.csproj|solutionrelative:training.dal\\migrations\\20250117105114_createdtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController1.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Controllers\\AccountController1.cs",
+              "RelativeDocumentMoniker": "Training.MVC\\Controllers\\AccountController1.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Controllers\\AccountController1.cs",
+              "RelativeToolTip": "Training.MVC\\Controllers\\AccountController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:45:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Training.BL\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "Training.BL\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:40:54.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Training.BL\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "Training.BL\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:40:35.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Training.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.Core\\Entities\\User.cs",
+              "RelativeToolTip": "Training.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:25:37.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\Enum\\Roles.cs",
+              "RelativeDocumentMoniker": "Training.BL\\Enum\\Roles.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\Enum\\Roles.cs",
+              "RelativeToolTip": "Training.BL\\Enum\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:45:44.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Training\\Update.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Areas\\Admin\\Views\\Training\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Training\\Update.cshtml",
+              "RelativeToolTip": "Training.MVC\\Areas\\Admin\\Views\\Training\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:03:16.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Training\\Create.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Areas\\Admin\\Views\\Training\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Training\\Create.cshtml",
+              "RelativeToolTip": "Training.MVC\\Areas\\Admin\\Views\\Training\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:02:34.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Training\\Index.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Areas\\Admin\\Views\\Training\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Training\\Index.cshtml",
+              "RelativeToolTip": "Training.MVC\\Areas\\Admin\\Views\\Training\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:02:12.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Training.MVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:01:22.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Training.MVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:00:52.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Training.MVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:00:35.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Training.MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Training.MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:58:38.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Training.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Training.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:58:36.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Training.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:56:50.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Training.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:49:14.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Training.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAABMBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:44:50.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Training.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAGwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:43:12.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrainingController.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Controllers\\TrainingController.cs",
+              "RelativeDocumentMoniker": "Training.MVC\\Areas\\Admin\\Controllers\\TrainingController.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Controllers\\TrainingController.cs",
+              "RelativeToolTip": "Training.MVC\\Areas\\Admin\\Controllers\\TrainingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:30:35.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Training.MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Training.MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:30:15.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Training.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Training.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:29:28.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Training.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:27:41.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Training.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:27:32.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Training.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:27:15.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Training.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Training.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvz8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:27:09.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Training.BL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\ServiceRegistration.cs",
+              "RelativeToolTip": "Training.BL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:22:49.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Training.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Training.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-17T11:14:05.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Extensions\\FileExtension.cs",
+              "RelativeDocumentMoniker": "Training.MVC\\Extensions\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Extensions\\FileExtension.cs",
+              "RelativeToolTip": "Training.MVC\\Extensions\\FileExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:52:39.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250117105114_createdtables.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.DAL\\Migrations\\20250117105114_createdtables.cs",
+              "RelativeDocumentMoniker": "Training.DAL\\Migrations\\20250117105114_createdtables.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.DAL\\Migrations\\20250117105114_createdtables.cs",
+              "RelativeToolTip": "Training.DAL\\Migrations\\20250117105114_createdtables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:51:14.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Training.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\appsettings.json",
+              "RelativeToolTip": "Training.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T10:47:55.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Training.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.MVC\\Program.cs",
+              "RelativeToolTip": "Training.MVC\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:46:30.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TrainerCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\ViewModels\\Trainer\\TrainerCreateVM.cs",
+              "RelativeDocumentMoniker": "Training.BL\\ViewModels\\Trainer\\TrainerCreateVM.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\ViewModels\\Trainer\\TrainerCreateVM.cs",
+              "RelativeToolTip": "Training.BL\\ViewModels\\Trainer\\TrainerCreateVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:46:16.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "RelativeDocumentMoniker": "Training.BL\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "RelativeToolTip": "Training.BL\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:45:21.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\Service\\Implements\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Training.BL\\Service\\Implements\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\Service\\Implements\\CategoryService.cs",
+              "RelativeToolTip": "Training.BL\\Service\\Implements\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:43:09.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TrainerService.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\Service\\Implements\\TrainerService.cs",
+              "RelativeDocumentMoniker": "Training.BL\\Service\\Implements\\TrainerService.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\Service\\Implements\\TrainerService.cs",
+              "RelativeToolTip": "Training.BL\\Service\\Implements\\TrainerService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:42:50.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\Service\\Abstracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Training.BL\\Service\\Abstracts\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\Service\\Abstracts\\ICategoryService.cs",
+              "RelativeToolTip": "Training.BL\\Service\\Abstracts\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:41:44.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ITrainerService.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\Service\\Abstracts\\ITrainerService.cs",
+              "RelativeDocumentMoniker": "Training.BL\\Service\\Abstracts\\ITrainerService.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.BL\\Service\\Abstracts\\ITrainerService.cs",
+              "RelativeToolTip": "Training.BL\\Service\\Abstracts\\ITrainerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:41:28.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Training.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Training.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:33:09.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.Core\\Entities\\Trainer.cs",
+              "RelativeDocumentMoniker": "Training.Core\\Entities\\Trainer.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.Core\\Entities\\Trainer.cs",
+              "RelativeToolTip": "Training.Core\\Entities\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:32:55.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Training.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Training.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:32:32.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TrainingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.DAL\\DAL\\TrainingDbContext.cs",
+              "RelativeDocumentMoniker": "Training.DAL\\DAL\\TrainingDbContext.cs",
+              "ToolTip": "C:\\Users\\Second\\Desktop\\Task\\Training\\Training.DAL\\DAL\\TrainingDbContext.cs",
+              "RelativeToolTip": "Training.DAL\\DAL\\TrainingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:31:54.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

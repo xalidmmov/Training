@@ -1,0 +1,17 @@
+C:\Users\Second\Desktop\Task\Training\Training.DAL\bin\Debug\net8.0\Training.DAL.deps.json
+C:\Users\Second\Desktop\Task\Training\Training.DAL\bin\Debug\net8.0\Training.DAL.runtimeconfig.json
+C:\Users\Second\Desktop\Task\Training\Training.DAL\bin\Debug\net8.0\Training.DAL.dll
+C:\Users\Second\Desktop\Task\Training\Training.DAL\bin\Debug\net8.0\Training.DAL.pdb
+C:\Users\Second\Desktop\Task\Training\Training.DAL\bin\Debug\net8.0\Training.Core.dll
+C:\Users\Second\Desktop\Task\Training\Training.DAL\bin\Debug\net8.0\Training.Core.pdb
+C:\Users\Second\Desktop\Task\Training\Training.DAL\obj\Debug\net8.0\Training.DAL.csproj.AssemblyReference.cache
+C:\Users\Second\Desktop\Task\Training\Training.DAL\obj\Debug\net8.0\Training.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Second\Desktop\Task\Training\Training.DAL\obj\Debug\net8.0\Training.DAL.AssemblyInfoInputs.cache
+C:\Users\Second\Desktop\Task\Training\Training.DAL\obj\Debug\net8.0\Training.DAL.AssemblyInfo.cs
+C:\Users\Second\Desktop\Task\Training\Training.DAL\obj\Debug\net8.0\Training.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Second\Desktop\Task\Training\Training.DAL\obj\Debug\net8.0\Training.2281C715.Up2Date
+C:\Users\Second\Desktop\Task\Training\Training.DAL\obj\Debug\net8.0\Training.DAL.dll
+C:\Users\Second\Desktop\Task\Training\Training.DAL\obj\Debug\net8.0\refint\Training.DAL.dll
+C:\Users\Second\Desktop\Task\Training\Training.DAL\obj\Debug\net8.0\Training.DAL.pdb
+C:\Users\Second\Desktop\Task\Training\Training.DAL\obj\Debug\net8.0\Training.DAL.genruntimeconfig.cache
+C:\Users\Second\Desktop\Task\Training\Training.DAL\obj\Debug\net8.0\ref\Training.DAL.dll

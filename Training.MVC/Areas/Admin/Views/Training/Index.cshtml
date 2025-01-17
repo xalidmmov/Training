@@ -1,0 +1,40 @@
+﻿
+@using Training.Core.Entities
+@model List<Trainer>
+
+<div class="container">
+    <div>
+        <h3>Trainer List</h3>
+        <a class="btn btn-primary" asp-action="Create" asp-controller="Training">Create</a>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Image</th>
+                <th scope="col">Name</th>
+                <th scope="col">Surname</th>
+                <th scope="col">CreatedTime</th>
+                <th colspan="2" scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@item.Id</th>
+                    <td><img width="60px" height="60px" src="~/trainers/imgs/@item.Image" /></td>
+                    <td>@item.Name</td>
+                    <td>@item.Surname</td>
+                    <td>@item.CreatedTime</td>
+                    <td>
+                        <a class="btn btn-warning" asp-action="Update" asp-controller="Training" asp-route-id="@item.Id">Update</a>
+                    </td>
+                    <td>
+                        <a class="btn btn-danger" asp-action="Delete" asp-controller="Training" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

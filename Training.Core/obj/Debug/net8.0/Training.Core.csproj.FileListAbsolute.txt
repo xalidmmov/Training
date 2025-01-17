@@ -1,0 +1,11 @@
+C:\Users\Second\Desktop\Task\Training\Training.Core\bin\Debug\net8.0\Training.Core.deps.json
+C:\Users\Second\Desktop\Task\Training\Training.Core\bin\Debug\net8.0\Training.Core.dll
+C:\Users\Second\Desktop\Task\Training\Training.Core\bin\Debug\net8.0\Training.Core.pdb
+C:\Users\Second\Desktop\Task\Training\Training.Core\obj\Debug\net8.0\Training.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Second\Desktop\Task\Training\Training.Core\obj\Debug\net8.0\Training.Core.AssemblyInfoInputs.cache
+C:\Users\Second\Desktop\Task\Training\Training.Core\obj\Debug\net8.0\Training.Core.AssemblyInfo.cs
+C:\Users\Second\Desktop\Task\Training\Training.Core\obj\Debug\net8.0\Training.Core.csproj.CoreCompileInputs.cache
+C:\Users\Second\Desktop\Task\Training\Training.Core\obj\Debug\net8.0\Training.Core.dll
+C:\Users\Second\Desktop\Task\Training\Training.Core\obj\Debug\net8.0\refint\Training.Core.dll
+C:\Users\Second\Desktop\Task\Training\Training.Core\obj\Debug\net8.0\Training.Core.pdb
+C:\Users\Second\Desktop\Task\Training\Training.Core\obj\Debug\net8.0\ref\Training.Core.dll
