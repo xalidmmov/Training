@@ -9,3 +9,16 @@ C:\Users\Second\Desktop\Task\Training\Training.Core\obj\Debug\net8.0\Training.Co
 C:\Users\Second\Desktop\Task\Training\Training.Core\obj\Debug\net8.0\refint\Training.Core.dll
 C:\Users\Second\Desktop\Task\Training\Training.Core\obj\Debug\net8.0\Training.Core.pdb
 C:\Users\Second\Desktop\Task\Training\Training.Core\obj\Debug\net8.0\ref\Training.Core.dll
+C:\Users\Asus\Desktop\Training\Training\Training.Core\bin\Debug\net8.0\Training.Core.deps.json
+C:\Users\Asus\Desktop\Training\Training\Training.Core\bin\Debug\net8.0\Training.Core.dll
+C:\Users\Asus\Desktop\Training\Training\Training.Core\bin\Debug\net8.0\Training.Core.pdb
+C:\Users\Asus\Desktop\Training\Training\Training.Core\obj\Debug\net8.0\Training.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Training\Training\Training.Core\obj\Debug\net8.0\Training.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Training\Training\Training.Core\obj\Debug\net8.0\Training.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Training\Training\Training.Core\obj\Debug\net8.0\Training.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Training\Training\Training.Core\obj\Debug\net8.0\Training.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Training\Training\Training.Core\obj\Debug\net8.0\Training.Core.sourcelink.json
+C:\Users\Asus\Desktop\Training\Training\Training.Core\obj\Debug\net8.0\Training.Core.dll
+C:\Users\Asus\Desktop\Training\Training\Training.Core\obj\Debug\net8.0\refint\Training.Core.dll
+C:\Users\Asus\Desktop\Training\Training\Training.Core\obj\Debug\net8.0\Training.Core.pdb
+C:\Users\Asus\Desktop\Training\Training\Training.Core\obj\Debug\net8.0\ref\Training.Core.dll

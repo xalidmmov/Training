@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Training.DAL.DAL;
 using Training.BL;
+using Training.Core.Entities;
+using Microsoft.AspNetCore.Identity;
 namespace Training.MVC
 {
     public class Program
@@ -13,6 +15,7 @@ namespace Training.MVC
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<TrainingDbContext>(x=>x.UseSqlServer(builder.Configuration.GetConnectionString("MSSql")));
             builder.Services.AddServices();
+            builder.Services.AddIdentity<User,IdentityRole>().AddDefaultTokenProviders().AddEntityFrameworkStores<TrainingDbContext>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

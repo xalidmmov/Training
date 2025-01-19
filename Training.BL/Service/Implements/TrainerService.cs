@@ -32,7 +32,7 @@ namespace Training.BL.Service.Implements
             var data = await _context.Trainers.FirstOrDefaultAsync(x => x.Id == id);
             if (data != null)
             {
-                _context.Trainers.Remove(data);
+                data.IsDeleted=true;
                 await _context.SaveChangesAsync();
                 return true;
             }

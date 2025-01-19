@@ -28,7 +28,7 @@ namespace Training.BL.Service.Implements
             var data = await _context.Categories.FirstOrDefaultAsync(x => x.Id == id);
             if (data != null)
             {
-                _context.Categories.Remove(data);
+                data.IsDeleted=true;
                 await _context.SaveChangesAsync();
                 return true;
             }

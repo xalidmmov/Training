@@ -60,13 +60,32 @@ namespace Training.MVC.Areas.Admin.Controllers
         [HttpGet]
         public async Task<IActionResult> Update(int id)
         {
-            ViewBag.Data = await _service.Get(id);
+			ViewBag.Categories = new SelectList(categoryservice.GetAllAsync().Result, "Id", "CName");
+			ViewBag.Data = await _service.Get(id);
             return View();
         }
         [HttpPost]
         public async Task<IActionResult> Update(int id, TrainerCreateVM vm)
         {
-            return View();
-        }
+			var data = await _service.Get(id);
+			if (vm.CoverImage == null)
+			{
+				vm.TrainerImg = data.TrainerImg;
+				await _service.UpdateAsync(id, vm);
+				return RedirectToAction(nameof(Index));
+
+			}
+			if (!ModelState.IsValid)
+			{
+				ViewBag.Categories = new SelectList(categoryservice.GetAllAsync().Result, "Id", "CName");
+				return View();
+
+			}
+			vm.TrainerImg = await vm.CoverImage!.UploadAsync(env.WebRootPath, "trainers", "imgs");
+			await _service.UpdateAsync(id, vm);
+
+			return RedirectToAction(nameof(Index));
+
+		}
     }
 }

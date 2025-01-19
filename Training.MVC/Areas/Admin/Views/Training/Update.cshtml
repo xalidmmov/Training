@@ -7,7 +7,7 @@
 
 <div class="container">
     <div>
-        <h2>Create Trainer</h2>
+        <h2>Update Trainer</h2>
         <a asp-action="Index" asp-controller="Training">Return List</a>
     </div>
     <form method="post" enctype="multipart/form-data">
@@ -22,7 +22,7 @@
             <span asp-validation-for="Surname" class="form-text text-danger"></span>
         </div>
         <div class="form-group">
-            <label asp-for="CategoryId" class="control-label">Departments</label>
+            <label asp-for="CategoryId" class="control-label">Categories</label>
             <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.Categories"></select>
             <span asp-validation-for="CategoryId" class="text-danger"></span>
         </div>
