@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Training.BL.Enum;
 using Training.BL.Service.Abstracts;
 using Training.BL.ViewModels.Category;
 using Training.DAL.DAL;
@@ -6,7 +8,8 @@ using Training.DAL.DAL;
 namespace Training.MVC.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class CategoryController(ICategoryService _service) : Controller
+	[Authorize(Roles = nameof(Roles.Admin))]
+	public class CategoryController(ICategoryService _service) : Controller
     {
         [HttpGet]
         public async Task<IActionResult> Index()

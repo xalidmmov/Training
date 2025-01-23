@@ -11,9 +11,9 @@ namespace Training.BL.Service.Abstracts
     public interface ICategoryService
     {
         Task<List<Category>> GetAllAsync();
-        Task<bool> Create(CategoryCreateVM vm);
+        Task<bool> Create(CategoryCreateVM  vm);
+        Task<bool> Update(int? id,CategoryCreateVM vm);
         Task<bool> Delete(int? id);
-        Task<bool> Update(int? id, CategoryCreateVM vm);
         Task<CategoryCreateVM> Get(int id);
     }
 }

@@ -1,9 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Training.BL.Enum;
 
 namespace Training.MVC.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class DashboardController : Controller
+	[Authorize(Roles = nameof(Roles.Admin))]
+	public class DashboardController : Controller
     {
         public IActionResult Index()
         {

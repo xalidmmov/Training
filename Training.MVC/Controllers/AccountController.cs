@@ -14,18 +14,24 @@ namespace Training.MVC.Controllers
         [HttpGet]
         public async Task<IActionResult> Login()
         {
-            SeedData seedData=new(_context,roleManager,userManager,signInManager);
-            await seedData.SeedDataAsync();
-            return View();
+			if (User.Identity!.IsAuthenticated)
+			{
+				return RedirectToAction("Index", "Home");
+			}
+			return View();
 
         }
         [HttpPost]
 		public async Task<IActionResult> Login(LoginVM vm )
         {
-            if(!ModelState.IsValid) {
+			if (User.Identity!.IsAuthenticated)
+			{
+				return RedirectToAction("Index", "Home");
+			}
+			if (!ModelState.IsValid) {
                 return View();
             }
-            var user=await userManager.FindByNameAsync(vm.UserName);
+            var user=await userManager.FindByNameAsync(vm.UserName);   
             if(user==null)
             {
                 ModelState.AddModelError("UserName", "Username ve ya password sehdir");
@@ -45,12 +51,20 @@ namespace Training.MVC.Controllers
         [HttpGet]
         public async Task<IActionResult> Register()
         {
-            return View();
+			if (User.Identity!.IsAuthenticated)
+			{
+				return RedirectToAction("Index", "Home");
+			}
+			return View();
         }
         [HttpPost]
 		public async Task<IActionResult> Register(RegisterVM vm)
 		{
-            if(!ModelState.IsValid)
+			if (User.Identity!.IsAuthenticated)
+			{
+				return RedirectToAction("Index", "Home");
+			}
+			if (!ModelState.IsValid)
             {
                 return View();
             }

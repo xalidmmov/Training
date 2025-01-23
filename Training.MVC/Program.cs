@@ -3,6 +3,7 @@ using Training.DAL.DAL;
 using Training.BL;
 using Training.Core.Entities;
 using Microsoft.AspNetCore.Identity;
+using Training.MVC.Extensions;
 namespace Training.MVC
 {
     public class Program
@@ -25,7 +26,7 @@ namespace Training.MVC
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
+            app.UseUserSeed();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
